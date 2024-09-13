@@ -27,12 +27,10 @@ Users should be able to:
 
 ![](./screenshot.png)
 
-Add a screenshot of your solution here.
-
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/chadittya/social-links-profile-main]
+- Live Site URL: []
 
 ## My process
 
